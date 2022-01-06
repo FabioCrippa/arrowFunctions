@@ -1,9 +1,9 @@
 //estrutura arrow function
 //let nomeVariavel = (a, b...) => {return a + b} console.log(nomeVariavel(valorA, valorB))
-let somar = (a, b)=> {
+let soma = (a, b)=> {
     return a + b;
 }
-console.log(somar(10, 30));
+console.log(soma(10, 30));
 
 let multiplicar = (a, b) => {
     return a * b;
